@@ -1,0 +1,161 @@
+#+TITLE:   The Council of Protestants in Guiding and Scouting (CPGS)
+#+AUTHOR:    Annette von Stockhausen
+#+EMAIL:     Annette von Stockhausen <Annette.von.Stockhausen@vcp.de>
+#+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
+#+KEYWORDS: scouts, scouting, christian, protestant
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: header/header.org
+* The statutes
+Adopted on the General Assembly in Copenhagen 13.-14th Oct. 2006
+** I. Status and Description
+The Council of Protestants in Guiding and Scouting (CPGS) is an
+autonomous body of Scouts and Guides of the Protestant Christian Faith,
+who belong to National Member Organisations of the World Organisation of
+the Scout Movement (WOSM) and/or the World Association of Girl Guides
+und Girl Scouting (WAGGGS).
+
+”Protestantism in Scouting” draws its basic spiritual understanding from
+the Christian Protestant Churches, founded on the principles of the
+Protestant reformation.
+
+The first network of Protestants in Scouting and Guiding was established
+in 1965 in Europe as “The Conference on Christianity in Guiding and
+Scouting” (CCGS).
+
+CPGS see Scouting and Guiding as a contributing to the physical,
+intellectual, social, emotional, and spiritual development of young
+people. We believe that equal attention should be paid to each dimension
+of this development at all levels of Guiding and Scouting.
+
+Our logo is formed from the outline of the tree symbols of the cross,
+the trefoil and the lily.
+** II. Objectives:
+1. To develop and promote the spiritual dimension of Guiding and
+   Scouting with the enrichment of the Protestant Christian faith 
+2. To promote constructive cooperation and a beneficial working
+   environment between Scouting and Guiding and the official local
+   Protestant Churches and the World Council of Churches 
+3. To promote collaboration and partnership between CPGS members,
+   including facilitating of exchanges and the sharing of experiences
+   and best practices 
+4. To take an active part in the inter-religious dialogue within
+   Scouting 
+** III. CPGS-Assembly:
+1. The World Assembly of the CPGS is the highest body of the Council. It consists of the delegations of duly recognised members of CPGS
+2. Membership is open to:
+   1) Protestant Christian Scout Associations / Organisations that are members of WOSM and/or WAGGGS 
+   2) National Councils or Committees of Protestant Scouts, or other such bodies which are constituted within member organisations or associations of WOSM and/or WAGGGS
+3. Each member has one vote. Only Members who have paid their CPGS membership fee may vote at the assembly
+4. Associate Membership is open to
+   1) Associations and Institutions of WOSM and/or WAGGGS 
+   2) Institutions within the Protestant Churches  
+   3) Individual Persons who are committed to the purpose, principles and method of Scouting as they are defined in the Constitutions of WOSM and/or WAGGGS 
+5. Observer Status is open to
+   1) Associated members 
+   2) Scout observers from the World Scout Committee, the World Scout Bureau and its Regions and Regional Committees of WOSM and Guide observers from the World Board and Regional Committees of WAGGGS  
+   3) Scout leaders of other Faiths 
+   4) Observers, as Institutions or as Individuals, especially from other Protestant Institutions; youth movements and Scout Organisations; Associations and Bodies in Countries that are not yet members of WOSM or WAGGGS 
+   5) Observers speak at the invitation of the Chairman, but may not vote 
+6. Membership, Associate Membership and Observer Status is provisionally awarded by the committee to eligible bodies and associations after receipt of an application form. The final decision shall be made by the assembly.
+7. Loss of membership
+   1) If a member of CPGS loses the basis of its membership the Committee shall suspend the status of the member concerned pending a final decision by the assembly 
+
+** IV. Function of the Assembly
+1.  To frame the general policies of CPGS and to ensure the implementations of its objectives 
+2.  To approve and to amend the Statutes of the Council 
+3.  To approve new membership, associated membership and observer status 
+4.  To help participants gain knowledge and inspirations in scouting and guiding 
+5.  To exchange methods, ideas and materials on fostering the Protestant Christian faith and the spiritual dimension in guiding and scouting 
+6.  To elect the CPGS-Committee, consisting of five persons, including the Chairman, Vice-Chairman and the Treasurer for a period of three years 
+7.  To approve the financial report and the budget of CPGS provided by the committee 
+8.  To approve the report from the committee 
+9.  To debate and approve the action plan provided by the committee 
+10. To approve the annual membership fee 
+** V. Sessions of the Assembly
+1. The General assembly convenes at least once in a period of three
+   years at a venue and time to be decided during the previous assembly 
+2. The chairman calls the assembly 
+3. The assembly forms its quorum through the presence of the majority
+   of CPGS members 
+4. Resolutions are valid, when adopted by the majority of the members
+   present at the conference. However amendments of the Statutes of CPGS
+   require a quorum of 60 % of the total membership and approval of 2/3
+   of members present 
+5. Members of the committee shall be elected by simple majority vote 
+6. Dissolution of CPGS requires a vote of 2/3 of all members of CPGS 
+7. Decisions adopted shall be in conformity with the WOSM and WAGGGS
+   constitutions 
+8. An extraordinary assembly may be convened by the Committee or be
+   requested by 1/3 of the members of CPGS 
+** VI. CPGS Committee
+1. The Committee consists of those five persons elected by the
+   assembly 
+2. It is the executive body of CPGS and is accountable before the
+   assembly 
+3. The committee includes Chairperson, Vice - Chairperson, Treasurer
+   and two other persons 
+4. The members of the Committee are elected by the assembly for a
+   period of three years. They can be reappointed 
+5. Where positions become vacant outside of an assembly, the Committee
+   shall organise a postal ballot to fill the vacancy 
+6. The Committee may co-opt up to five others to assist in their work 
+
+** VII. Functions of the CPGS Committee:
+1. To promote the aims of the Council and to implement the decisions,
+   recommendations and action plan adopted by the assembly 
+2. To prepare the agenda for the assembly 
+3. To promote the objectives of the Council 
+4. To prepare a report on activities to be approved by the assembly 
+5. To be responsible for the financial report and the budget and
+   provide it for the assembly to be approved 
+6. The committee decides the venue and date for an extraordinary
+   assembly. The invitations for such an assembly shall be sent by the
+   chairman two month prior to the date of the assembly  
+7. To ensure a high level of communication between CPGS - membership
+   association (the committee and CPGS – membership associations) 
+
+** VIII. Functions of the Chairman of the CPGS Committee
+To make sure,
+1. that CPGS is represented on relevant meetings, events, conferences;
+2. that the committee's obligations concerning the conference are
+   fulfilled; 
+3. that contact with WOSM and WAGGGS is maintained; 
+4. that relations with the WCC, other scout faith groups and WAGGGS
+   and WOSM are promoted. 
+
+** IX. Functions of the Treasurer
+1. To supervise the accounts of the Council and control the revenue
+   receipts and expenditure 
+2. To prepare the final accounts and financial reports 
+
+** X. Meetings of the Committee
+1. The committee meets as minimum once a year and can meet more often
+   if the need is identified by the committee 
+2. The committee is in quorum when the majority of its members are
+   present 
+3. Decisions taken by the Committee are valid if adopted by the
+   majority of members present 
+4. The Committee shall approve the expenditure of the Council, and the
+   signature of any two members of the Committee shall suffice in the
+   placing of instructions for payment 
+** XI. Finances
+Every member must pay a yearly fee to the CPGS. The fee will be
+recommended by the committee and agreed upon by the Assembly. The funds
+are held in the bank, stated in the Appendix. The chairman and the
+treasurer together have the authority to spend money according to aims
+of the Council.
+** XII. The statutes
+These statutes take effect from the date they are approved by the First
+Worldwide Assembly in 2006.
+** XIII. Dissolution of the Council
+In case of dissolution of the Council, its assets will be transferred to
+the World Scout Foundation, to be used for the benefit and support of
+Scouts and Guides of Protestant Christian Faith.

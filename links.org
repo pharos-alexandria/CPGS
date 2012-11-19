@@ -1,0 +1,21 @@
+#+TITLE:   The Council of Protestants in Guiding and Scouting (CPGS)
+#+AUTHOR:    Annette von Stockhausen
+#+EMAIL:     Annette von Stockhausen <Annette.von.Stockhausen@vcp.de>
+#+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
+#+KEYWORDS: scouts, scouting, christian, protestant
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: header/header.org
+* Links
+- [[http://www.desmos.info/en/index.html][DESMOS – The International Link of Ortodox Christian Scouts]]
+- [[http://www.cics.org/html/index.php][ICCS – The International Catholics Conference of Scouting]]
+- [[http://www.jewishscoutsforum.org/][IFJS – The International Forum of Jewish Scouts]]
+- [[http://iums.org.sa/en/][IUMS – The International Union of Muslim Scouts]]
+- [[http://www.wbsb.info/][WBSB – The World Buddhist Scout Brotherhood]]

@@ -1,0 +1,56 @@
+#+TITLE:   The Council of Protestants in Guiding and Scouting (CPGS)
+#+AUTHOR:    Annette von Stockhausen
+#+EMAIL:     Annette von Stockhausen <Annette.von.Stockhausen@vcp.de>
+#+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
+#+KEYWORDS: scouts, scouting, christian, protestant
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: header/header.org
+* Current and past activities
+** 4th World Scout Inter-religious Symposium – Iksan, S. Korea 1st to 5th August, 2012
+   by Inka Hopsu
+
+The 4th World Scout Inter-religious Symposium (WSIS) was held from 1st
+to 5th August 2012 at WonKwang University, Iksan South Korea. This
+event was hosted jointly by The Korea Scouts Association and Won-Buddhism Scouts Council (WBSC). It was organized by members of the World Scout Inter-religious Forum (WSIF), an informal network of
+religious groups/organizations in Scouting, and was supported by the
+World Scout Bureau.
+
+The theme of this symposium was "Growing Scouting through Families and Communities". Discussion was focused mostly on growth and not that much on spiritual dimension. All the present Religious groups: ICCS,
+IUMS, Buddhist, Von-Buddhist, CPGS represent their latest news.
+*** Programme Activities
+    - World Scout Inter-religious Forum: includes presentations,
+      workshops,and discussions on how Scouting can grow in the
+      context of families and religious communities.
+    - Educational Tour
+      - Visiting Korean historical and religious sites
+      - Walking the interfaith path in Jeonju
+    - Sightseeing
+      - Traditional Korean village in Jeonju
+      - Seoul city tour (after symposium)
+    - Cultural Activities
+      - Korean arts and crafts
+    - Reception and meals with special guests and participants
+    - Daily guided meditation sessions for settling into a peaceful mind
+    - Programme available for children accompanying attendees during the symposium
+*** Participants
+    Scouts, Scout leaders from around world about 100.
+    Young adult Scouts were very much encouraged to attend, there were
+    around 100 Koreans and Taiwanese young leaders with separate youth programme.
+*** Meditation retreat: 5th–7th August, 2012
+    A meditation retreat following the symposium was offered.
+
+** Roverway 2012
+   ...
+
+** 22nd World Scout Jamboree in Sweden 2011
+   ...
+** 21st World Scout Jamboree in the UK 2007
+   ...
