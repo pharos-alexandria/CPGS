@@ -14,6 +14,9 @@
 #+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: header/header.org
 * Links
+- [[http://www.scout.org/][World Organization of the Scout Movement]]
+
+
 - [[http://www.desmos.info/en/index.html][DESMOS – The International Link of Ortodox Christian Scouts]]
 - [[http://www.cics.org/html/index.php][ICCS – The International Catholics Conference of Scouting]]
 - [[http://www.jewishscoutsforum.org/][IFJS – The International Forum of Jewish Scouts]]

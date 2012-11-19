@@ -30,7 +30,7 @@ font-weight: bold;
 
 body {
   font: Delicious, Lucida, Helvetica, Arial, sans-serif;
-  background: url(images/cpgs-logo.jpg) no-repeat 99% 99%;
+  background: url(images/cpgs-logo.jpg) no-repeat 90% 99%;
   margin-top: 5%;
   margin-right: 10%;
   margin-left: 10%;
@@ -975,7 +975,10 @@ ol  {
     #table-of-contents h2 {
 	margin-top: .2em;
 	margin-left: 2em;
+	padding-left: 2em;
 	border: none;
 	font-size: 10pt;
     }
+
+
 } /* END OF @media screen */

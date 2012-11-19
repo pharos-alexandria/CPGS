@@ -4,7 +4,7 @@
 #+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
 #+KEYWORDS: scouts, scouting, christian, protestant
 #+LANGUAGE:  en
-#+OPTIONS:   H:2 num:nil toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:2 num:nil toc:2 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
