@@ -17,7 +17,9 @@
 [[file:toolkits.org][Toolkits]] | [[file:statutes.org][Statutes]] |
 [[file:members.org][Members]] | [[file:council.org][Committee]] | 
 [[file:links.org][Links]] | [[file:impressum.org][Imprint]] |
-[[http://www.facebook.com/Protestantscouts][On Facebook]]
+[[http://www.facebook.com/Protestantscouts][On Facebook]] |
+#+ATTR_HTML: rel="publisher"
+[[https://plus.google.com/106001056850982625253][On Google+]]
 
 #+BEGIN_HTML
 
