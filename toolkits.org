@@ -19,3 +19,4 @@
    - [[https://www.vcp.de/fileadmin/grafiken_vcp/gremien/fg_pfadi/downloads/Glaube_2012_Mit_Gott_unterwegs_V05.pdf][Mit Gott unterwegs (Aus der Reihe: Pfadfinderinnen- und Pfadfinderstufe im VCP)]]
    - [[https://www.vcp.de/fileadmin/grafiken_vcp/gremien/fg_ranger_rover/Download/Kurzarbeitshilfen/Glaube_2012_WEB.pdf][Glauben (Aus der Reihe: Ranger-/Roverarbeit im VCP)]]
    - [[https://www.vcp.de/fileadmin/dokumente_vcp/arbeitshilfen/HR_Erntedank_WEB.pdf][Das Kirchenjahr feiern! Erntedank]]
+   - [[http://www.vcp.de/uploads/media/HR_Advent_und_Weihnachten.pdf][Das Kirchenjahr feiern! Advent und Weihnachten]]
