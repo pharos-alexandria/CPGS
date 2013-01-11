@@ -13,10 +13,6 @@
 #+XSLT: 
 #+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: header/header.org
-#+ATTR_HTML: alt="Picture of the Peace Light from Bethlehem"
-#+ATTR_HTML: style="border:2px solid white;float:right;margin:0px 0px 10px 10px;"
-[[file:images/Friedenslicht-Kerze.jpg]]
-** Glædelig Jul! Fröhliche Weihnachten! Merry Christmas! Joyeux Noël! Hyvää Joulua! Vrolijk Kerstfeest! Buon Natale! God Jul! Feliz Navidad!
 
 * About
 The Council of Protestants in Guiding and Scouting (CPGS) is a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees. CPGS' understanding of Protestantism is based on the definition of the [[http://www.oikoumene.org/][World Council of Churches (WCC)]].
