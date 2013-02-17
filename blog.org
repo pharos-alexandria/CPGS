@@ -13,6 +13,7 @@
 #+XSLT: 
 #+INCLUDE: header/header.org
 * News
+** <2013-02-17 So> Report from [[file:activities.org::*Roverway%202012][Roverway 2012]]
 ** <2012-11-19 Mo> CPGS has now a homepage
 Besides our Facebook page we now also have a homepage. More info (and photos!) will
 follow soon, so come back! 

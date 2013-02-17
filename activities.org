@@ -48,7 +48,35 @@ IUMS, Buddhist, Von-Buddhist, CPGS represent their latest news.
     A meditation retreat following the symposium was offered.
 
 ** Roverway 2012
-   ...
+   In 2012, a Roverway took place in Finland. At this jamboree, where 3500 rovers out of more than 50 countries (mostly Europeans but not only) and from several religious confessions came by, the presence of the CPGS had a real meaning.
+
+   In the “Live your life” path, between the Catholics, Jewish and other non confessional spiritual meditation tents, the CPGS offered a internal meditation activity based on several moments of the Christian life, materialize by pearls of different form and color: the “Pearls of life”. 
+
+   Created by a Swedish Lutheran bishop in 1966, this 18 pearls bracelet gives each participant the opportunity to ask himself questions of life, to pry, to meditate, without any concrete prayer formulation. Each pearl is accompanied with a small text detailing her meaning and her integration in our life, and also with some questions about yourself bringing the participant to prayer or meditation as wanted by bishop Lönnebo.
+
+   #+ATTR_HTML: alt="Picture of the Pearls of life"
+   #+ATTR_HTML: style="border:2px solid white;float:right;margin:0px 0px 10px 10px;"
+   [[file:images/Roverway.jpg]]
+   The bracelet begins with the golden pearl and goes counter-clockwise (as they represent the path of life):
+   - The pearl of God 
+   - The pearl of Silence 
+   - The I-pearl 
+   - The pearl of Baptism 
+   - The pearl of Silence 
+   - The Desert pearl 
+   - The pearl of Silence 
+   - The Serenity pearl 
+   - The pearl of Silence
+   - Two pearls of Love 
+   - Three pearls of Mystery (pearls of Secret)
+   - The Night pearl (pearl of Darkness) 
+   - The pearl of Silence 
+   - The pearl of Resurrection 
+   - The pearl of Silence 
+
+   At the end of the four days of Roverway, the results are very positives. Lot of people came to the CPGS tent; some of them stayed a while at the meditation place in order to “answer” the questions asked by the pearls and several leaved traces of their meditation through messages written on papers stamped to the tent. Following her own success, the CPGS tent went out of pearls before the end of the Roverway and the last person to come by could only get the explanations of the pearls and the associated meditation.
+
+   The CPGS tent was animated by 2 people of the CPGS board (from Finland and France) and 2 persons out of the German VCP, also member of the CPGS.
 
 ** 22nd World Scout Jamboree in Sweden 2011
    ...
