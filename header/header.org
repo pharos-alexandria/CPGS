@@ -11,17 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+HTML: <div id="menu"> 
-[[file:index.org][file:images/home.png]] | [[file:blog.org][News]] |
-[[file:activities.org][Activities]] |
-[[file:toolkits.org][Toolkits]] | [[file:statutes.org][Statutes]] |
-[[file:members.org][Members]] | [[file:council.org][Committee]] | 
-[[file:links.org][Links]] | [[file:impressum.org][Imprint]] |
-[[http://www.facebook.com/Protestantscouts][On Facebook]] |
-#+ATTR_HTML: rel="publisher"
-[[https://plus.google.com/106001056850982625253][On Google+]]
-
-#+HTML: </div>
 #+BEGIN_HTML
-
-#+END_HTML 
+<div id="menu"> 
+<a href="index.html"><img src="images/home.png"></img></a> | <a href="blog.html">News</a> | <a href="activities.html">Activities</a> | <a href="toolkits.html">Toolkits</a> | <a href="statutes.html">Statutes</a> | <a href="members.html">Members</a> | <a href="council.html">Committee</a> | <a href="links.html">Links</a> | <a href="impressum.html">Imprint</a> | <a href="http://www.facebook.com/Protestantscouts">On Facebook</a> | <a href="https://plus.google.com/106001056850982625253" rel="publisher">On Google+</a>
+</div> 
+#+END_HTML
