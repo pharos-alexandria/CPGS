@@ -11,8 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+INCLUDE: header/header.org
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: "header/header.org"
 * Toolkits
 ** by VCP (in German)
    - [[https://www.vcp.de/fileadmin/grafiken_vcp/gremien/fg_kinderstufe/downloads/Gott_auf_der_Spur_Web.pdf][Gott auf der Spur (Aus der Reihe: Kinderstufe im VCP)]]
@@ -21,3 +21,4 @@
    - [[https://www.vcp.de/fileadmin/dokumente_vcp/arbeitshilfen/HR_Erntedank_WEB.pdf][Das Kirchenjahr feiern! Erntedank]]
    - [[http://www.vcp.de/uploads/media/HR_Advent_und_Weihnachten.pdf][Das Kirchenjahr feiern! Advent und Weihnachten]]
    - [[http://www.vcp.de/uploads/media/HR_Passion_und_Ostern.pdf][Das Kirchenjahr feiern! Passion und Ostern]]
+   - [[http://www.vcp.de/nachrichten/artikel/das-kirchenjahr-feiern-pfingsten-1/][Das Kirchenjahr feiern! Pfingsten]]

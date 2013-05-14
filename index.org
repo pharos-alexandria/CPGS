@@ -11,8 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+INCLUDE: header/header.org
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: "header/header.org"
 
 * About
 The Council of Protestants in Guiding and Scouting (CPGS) is a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees. CPGS' understanding of Protestantism is based on the definition of the [[http://www.oikoumene.org/][World Council of Churches (WCC)]].

@@ -11,8 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+INCLUDE: header/header.org
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: "header/header.org"
 * The Committee
 ** Inka Hopsu – Chairman
    As chairman of CPGS, my task is to coordinate the activities of

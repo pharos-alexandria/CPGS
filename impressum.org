@@ -11,7 +11,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+INCLUDE: header/header.org
+#+INCLUDE: "header/header.org"
 * Imprint
 Council of Protestants in Guiding and Scouting\\
 c/o Inka Hopsu, chairman of CPGS\\

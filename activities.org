@@ -11,8 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+INCLUDE: header/header.org
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: "header/header.org"
 * Current and past activities
 ** 4th World Scout Inter-religious Symposium – Iksan, S. Korea 1st to 5th August, 2012
    by Inka Hopsu

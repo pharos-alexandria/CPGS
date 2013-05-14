@@ -11,8 +11,8 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+STYLE: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-#+INCLUDE: header/header.org
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+#+INCLUDE: "header/header.org"
 * The statutes
 Adopted on the General Assembly in Copenhagen 13.-14th Oct. 2006
 ** I. Status and Description

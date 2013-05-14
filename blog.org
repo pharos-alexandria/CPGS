@@ -11,7 +11,7 @@
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT: 
-#+INCLUDE: header/header.org
+#+INCLUDE: "header/header.org"
 * News
 ** <2013-02-17 So> Report from [[file:activities.org::*Roverway%202012][Roverway 2012]]
 ** <2012-11-19 Mo> CPGS has now a homepage
