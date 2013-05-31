@@ -4,7 +4,7 @@
 #+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
 #+KEYWORDS: scouts, scouting, christian, protestant
 #+LANGUAGE:  en
-#+OPTIONS:   H:2 num:nil toc:2 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
@@ -13,6 +13,31 @@
 #+XSLT: 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
+* Upcoming activities
+** Seminar 2013, Hämeenlinna, Finland
+   :PROPERTIES:
+   :CUSTOM_ID: Seminar2013
+   :END:
+The Council for Protestants in Guiding and Scouting is organising a seminar together with The Guides and Scouts of Finland
+
+We are looking forward to seeing everyone for a great and productive seminar in Hämeenlinna, *Friday the 27th of September to Sunday the 29th of September*. 
+
+We will be spending the weekend together sharing our experiences in spiritual dimention in scouting. What can we learn from each others? What are the biggest challenges? How the society or the Scout organisation is supporting us? We have also some very great guestspeakers coming. During the weekend there will also be time to meet with the scouts from Finland who are working in this field, to see some Finnish traditions and nature and to have fun together. 
+
+The program will begin at 19.30 Friday evening, there will however be arranged transportation help from Helsinki during the afternoon, more information about this will follow. The weekend will end around 14.00 Sunday.
+
+The meeting will take place near Hämeenlinna.
+
+
+Price for the seminar: 135 Euro
+
+*Deadline for registration: Sunday, 26 august 2012* to olli.kamunen@scout.fi
+
+
+More information about the program will follow for registered persons or more info laura.kajala@scout.fi or international@scout.fi
+
+Sincerely the Guides and Scouts of Finland hosts
+
 * Current and past activities
 ** 4th World Scout Inter-religious Symposium – Iksan, S. Korea 1st to 5th August, 2012
    by Inka Hopsu

@@ -1,17 +1,4 @@
-#+TITLE:   The Council of Protestants in Guiding and Scouting (CPGS)
-#+AUTHOR:    Annette von Stockhausen
-#+EMAIL:     Annette von Stockhausen <Annette.von.Stockhausen@vcp.de>
-#+DESCRIPTION: Website of the Council of Protestants in Guiding and Scouting (CPGS), a link of confessional Protestant Guide and Scout associations and of Pastoral Protestant committees which enjoys Consultative Status with the World Scout Committee.
-#+KEYWORDS: scouts, scouting, christian, protestant
-#+LANGUAGE:  en
-#+OPTIONS:   H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+XSLT: 
-#+BEGIN_HTML
+ #+BEGIN_HTML
 <div id="menu"> 
 <a href="index.html"><img src="images/home.png"></img></a> | <a href="blog.html">News</a> | <a href="activities.html">Activities</a> | <a href="toolkits.html">Toolkits</a> | <a href="statutes.html">Statutes</a> | <a href="members.html">Members</a> | <a href="council.html">Committee</a> | <a href="links.html">Links</a> | <a href="impressum.html">Imprint</a> | <a href="http://www.facebook.com/Protestantscouts">On Facebook</a> | <a href="https://plus.google.com/106001056850982625253" rel="publisher">On Google+</a>
 </div> 
