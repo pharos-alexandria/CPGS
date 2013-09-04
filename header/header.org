@@ -1,5 +1,5 @@
  #+BEGIN_HTML
 <div id="menu"> 
-<a href="index.html"><img src="images/home.png"></img></a> | <a href="blog.html">News</a> | <a href="activities.html">Activities</a> | <a href="toolkits.html">Toolkits</a> | <a href="statutes.html">Statutes</a> | <a href="members.html">Members</a> | <a href="council.html">Committee</a> | <a href="links.html">Links</a> | <a href="impressum.html">Imprint</a> | <a href="http://www.facebook.com/Protestantscouts">On Facebook</a> | <a href="https://plus.google.com/106001056850982625253" rel="publisher">On Google+</a>
+<a href="index.html"><img src="images/home.png"></img></a> | <a href="blog.html">News</a> | <a href="activities.html">Activities</a> | <a href="toolkits.html">Toolkits</a> | <a href="statutes.html">Statutes</a> | <a href="members.html">Members</a> | <a href="council.html">Committee</a> | <a href="links.html">Links</a> | <a href="impressum.html">Imprint</a> | <a href="http://www.facebook.com/Protestantscouts">On Facebook</a> | <a href="https://twitter.com/protestantscout">On Twitter</a>
 </div> 
 #+END_HTML
