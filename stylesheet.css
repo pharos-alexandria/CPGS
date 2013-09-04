@@ -52,43 +52,10 @@ ul  {
 	margin-left: 2em;
     }
 
-ol  {
-	margin-left: 2em;
-    }
-
 #menu {
     font-size: 13pt;
 }
 
-#wrapper {
-     padding-top: 40px;
-     border-left: 1px #bababa solid;
-     border-right: 1px #bababa solid;
-     padding-left: 20px;
-     padding-right: 20px;
-}
- 
-#sidetitle {
-    color: #000;
-    font-size: 14pt;
-    padding-right: 20px;
-    text-align: right;
-    text-transform: lowercase;
-}
-
-#sidemenu {
-    text-transform: lowercase;
-    float: left;
-    padding-left: 20px;
-}
-
-
-    #license {
-	padding: .3em;
-	border: 1px solid grey;
-	background-color: #eeeeee;
-	font-size: 80%;
-    }
 
     #postamble {
 	text-align: left;
@@ -121,15 +88,6 @@ ol  {
 	padding-top: 15px;
     }
 
-    blockquote {
-	font-size: 100%;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	margin-left: 50px;
-	padding-left: 15px;
-	width: 600px;
-	border-left: 3px solid #ccc;
-    } 
 
     h1 {
 	/* font-size: 12pt; */
@@ -187,31 +145,6 @@ ol  {
 	color: #000000;
     }
 
-    .todo {
-	color: #990000;
-    }
-
-    .done {
-	color: #006666;
-    }
-
-    .timestamp-kwd {
-	color: #444;
-    }
-
-    .timestamp { color: #BDBDBD; 
-	background-image: url(images/calday.png);
-	background-repeat: no-repeat;
-	background-position: left;
-	padding-left: 20px;
-	       }
-
-    .tag {
-	color: #990000;
-	font-size: 70%;
-	font-weight: 500;
-    }
-
     li {
 	margin: .4em;
     }
@@ -237,17 +170,6 @@ ol  {
 	border: none;
     }
 
-    .share img {
-	opacity: .4;
-	-moz-opacity: .4;
-	filter: alpha(opacity=40);
-    }
-
-    .share img:hover {
-	opacity: 1;
-	-moz-opacity: 1;
-	filter: alpha(opacity=100);
-    }
 
     /* pre {border: 1px solid #555; */
     /*      background: #EEE; */
