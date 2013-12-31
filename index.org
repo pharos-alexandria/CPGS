@@ -13,12 +13,6 @@
 #+XSLT: 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
-#+HTML: <div id="attention">
-#+ATTR_HTML: :alt Friedenslichtkerze :style float:left; margin-top: -10pt
-[[file:images/Friedenslicht-Kerze-klein.jpg]]
-
-Join in! [[file:activities.org::#PeaceLight2013][Light of Peace / Lumière de la Paix de Bethléem 2013]]
-#+HTML: </div>
 
 #+HTML: <div id="twitter">
 #+BEGIN_HTML
