@@ -13,6 +13,10 @@
 #+XSLT: 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
+#+HTML: <div id="attention">
+#+ATTR_HTML: :alt Invitation margin-top: -10pt
+ [[file:images/Invitation-World-Conference.png][file:images/Invitation-World-Conference-thumbnail.png]]
+#+HTML: </div>
 
 #+HTML: <div id="twitter">
 #+BEGIN_HTML
