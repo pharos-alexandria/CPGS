@@ -14,6 +14,12 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
 * Upcoming activities
+** General assembly 24-26 Oct 2014
+   [[file:files/Invitation-General-Assembly-2014.pdf][Invitation]]
+    
+* Current and past activities
+** Joint statement by World Scout Interreligious Forum at the World Conference 2014
+    [[file:images/WSIF_joint_statement.png][file:images/WSIF_joint_statement-thumb.png]]
 ** Light of Peace / Lumière de la Paix de Bethléem 2013
    :PROPERTIES:
    :CUSTOM_ID: PeaceLight2013
@@ -30,8 +36,6 @@ EEUdF and the German scouts also prepared some toolkits:
 - http://bibli.eeudf.org/documents/lumiere-de-bethleem/ (French)
 - http://www.friedenslicht.de/materialien (German)
 
-   
-* Current and past activities
 ** Seminar 2013, Hämeenlinna, Finland
    :PROPERTIES:
    :CUSTOM_ID: Seminar2013
