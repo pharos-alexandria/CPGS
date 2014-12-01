@@ -14,10 +14,11 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
 * Upcoming activities
-** General assembly 24-26 Oct 2014
-   [[file:files/Invitation-General-Assembly-2014.pdf][Invitation]]
-    
+** Light of Peace / Lumière de la Paix de Bethléem 2014
+** Protestant Tent at the 23rd World Scout Jamboree 2015
 * Current and past activities
+** General assembly 24-26 Oct 2014
+   /Report will follow/
 ** Joint statement by World Scout Interreligious Forum at the World Conference 2014
     [[file:images/WSIF_joint_statement.png][file:images/WSIF_joint_statement-thumb.png]]
 ** Light of Peace / Lumière de la Paix de Bethléem 2013

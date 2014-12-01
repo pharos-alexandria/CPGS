@@ -14,11 +14,11 @@
 #+INCLUDE: "header/header.org"
 * Imprint
 Council of Protestants in Guiding and Scouting\\
-c/o Inka Hopsu, chairman of CPGS\\
-The Guides and Scouts of Finland, http://www.scout.fi\\
-Töölönkatu 55\\
-00250 Helsinki\\
-FINLAND\\
-[[mailto:inka.hopsu@scout.fi][inka.hopsu@scout.fi]]\\
-+358 9 8865 1108 (national headquarters)                                                                                                                                                                                       
+c/o Annette von Stockhausen, chairman of CPGS\\
+Verband Christlicher Pfadfinderinnen und Pfadfinder (VCP), http://www.vcp.de\\
+Wichernweg 3\\
+34121 Kassel\\
+GERMANY\\
+[[mailto:cpgs@vcp.de][cpgs@vcp.de]]\\
++49-561-784370 (national headquarters)                                                                                                                                                                                       
                                                                                                                                                                                                                                                                                       

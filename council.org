@@ -14,43 +14,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
 * The Committee
-** Inka Hopsu – Chairman
-   As chairman of CPGS, my task is to coordinate the activities of
-   CPGS and to work with the Board to implement CPGS's action plan.
-   I represent CPGS at the World Scout Interreligious Forum of WOSM.
-
-   In the National Scout Organisation of Finland, I have served as
-   International Commissioner and member of our national board. In our
-   international relations team I am currently in charge of
-   partnerships with NSOs from Asia and Africa regions.
-   My local scout group of origin is supported by a local parish of
-   the Lutheran Church of Finland. I volunteer actively in my local
-   parish, and I am an elected member of the local church council for the 10th year now.
-
-   I am teacher by profession. I hold a Master's degree with studies
-   in education, psychology, development cooperation and
-   communications.
-   
-** Luc Vonderweidt – Vice-Chairman
-   I have been a member of CPGS board for many years, and try to help
-   to make a link between the former board and the new board elected
-   in September 2011.
-
-   I am a member of Eclaireuses an Eclaireurs Unionistes de France,
-   which are the protestants scouts in France. I am a member of the
-   Normandy regional board and a former International Commissioner.
-
-   I live part of the time in Chile, involved in in local scouting
-   there too.
-
-   I am a town councillor in Normandy in charge of Heritage.
-
-   Member of Universal Fellowship of Scouting Rotarians.
-
-   I speak French, English, Spanish and German.
-** Ian Ørtenblad – Treasurer
-   Member of CPGS board since 2011, member of the YMCA-Scouts in Denmark, priest in The Evangelical Lutheran Church in Denmark.
-** Annette von Stockhausen
+** Annette von Stockhausen – Chairman 
    I am member of the CPGS board since 2011. In the German Verband
    Christlicher Pfadfinderinnen und Pfadfinder (VCP) I have been
    active for more than 25 years from local to national level, e.g.
@@ -59,9 +23,5 @@
    member of our national board. 
 
    I am a theologian by profession and teach church history at university.
-** Pierre Bompaire
-   Member of the CPGS board since 2012, I'm a member of the EEUdF (Eclaireuses
-   et Eclaireurs Unionistes de France, the protestants scouts in France)
-   where I occupied several positions for 10 years as local, regional or
-   national level, like regional treasurer or as member of the national
-   board. I work as a financial auditor.
+** Adrien Chaboche – Vice-Chairman
+** Magali Prévot – Treasurer

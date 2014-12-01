@@ -14,6 +14,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
 * Members
+** Scouts de Argentina, Comisión Pastoral Scout Cristiano Evangélica
+   http://www.scouts.org.ar/copasce
 ** KFUM-Spejderne i Danmark
    http://www.spejdernet.dk/
 ** Suomen Partiolaiset 
@@ -22,5 +24,3 @@
    http://www.eeudf.org/
 ** Verband christlicher Pfadfinderinnen und Pfadfinder (VCP)
    http://www.vcp.de/
-** equmenia
-   http://www.equmenia.se/

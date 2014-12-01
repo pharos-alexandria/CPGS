@@ -13,11 +13,6 @@
 #+XSLT: 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
-#+HTML: <div id="attention">
-#+ATTR_HTML: :alt Invitation margin-top: -10pt
- [[file:files/Invitation-General-Assembly-2014.pdf][Invitation to the general assembly of CPGS 24-26 Oct 2014]]
-#+HTML: </div>
-
 
 #+HTML: <div id="twitter">
 #+BEGIN_HTML
