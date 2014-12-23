@@ -81,6 +81,15 @@ ul  {
 	padding: 10px;
     }
 
+    #front {
+	font-size: 15pt;
+	margin-top: 10px;
+	margin-right: 20%;
+	margin-left: 20%;
+	text-align: center;
+	padding: 10px;
+    }
+
     #twitter {
 	float: right;
 	width: 45%;
