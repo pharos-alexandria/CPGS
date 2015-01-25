@@ -13,10 +13,6 @@
 #+XSLT: 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="stylesheet.css" />
 #+INCLUDE: "header/header.org"
-#+HTML: <div id="front">
-#+ATTR_HTML: :alt Merry Christmas margin-top: -10pt
- [[file:images/Christmas-Card-2014.jpg]]
-#+HTML: </div>
 
 #+HTML: <div id="twitter">
 #+BEGIN_HTML
